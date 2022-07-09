@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **ML projects.**
 
-- 🏫 Currently studying at **Bsc. CSIT at St. Xaviers College.**
+- 🏫 Currently studying **Bsc. CSIT at St. Xaviers College.**
 
 - 📫 How to reach me **siddharthasitaula02@gmail.com**
 
